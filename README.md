@@ -3,6 +3,10 @@
 Calculadora em React Native (Expo SDK 54) usada na aula de Desenvolvimento de dispositivos móveis (Fatec ADS).
 Esta versão é o resultado final da aula: componentes, histórico com FlatList, persistência com AsyncStorage e navegação entre duas telas.
 
+## Projeto Realizado por:
+Gabriel Gonzaga Oliveira
+Gabriely Souza Alves de Oliveira
+
 ## Evoluções implementadas
 
 - **Evolução 1:** botão "Limpar histórico" (apaga da tela e do AsyncStorage); a Home recarrega o histórico ao ganhar foco.
