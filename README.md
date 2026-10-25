@@ -4,8 +4,9 @@ Calculadora em React Native (Expo SDK 54) usada na aula de Desenvolvimento de di
 Esta versão é o resultado final da aula: componentes, histórico com FlatList, persistência com AsyncStorage e navegação entre duas telas.
 
 ## Projeto Realizado por:
-Gabriel Gonzaga Oliveira
-Gabriely Souza Alves de Oliveira
+- Gabriel Gonzaga Oliveira
+
+- Gabriely Souza Alves de Oliveira
 
 ## Evoluções implementadas
 
